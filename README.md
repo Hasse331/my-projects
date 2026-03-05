@@ -48,4 +48,4 @@ Building e-commerce store forntend for Spectrum Audio Instruments (milestone 1)
 
 - Project SOLIS, ESP32 embedded smart light (more from my LinkedIn profile), might consider continuing the project to next phase (though it's fully functional already). UI/UX could be continued to make it user friendly (and not only developer fiendly) and new really cool features could be added like daytype simulation (cloudy, fireplace, candle).
 - FocusBlock flutter mobile app
-  (check my LinkedIn or repos if you want to know my older projects). Not interested to continue this currently.
+- (check my LinkedIn or repos if you want to know my older projects). Not interested to continue this currently.
