@@ -6,43 +6,47 @@ This repo is describing my current projects under progress, upcoming projects an
 
 **SAI-commerce-frontend**
 
-Building e-commerce store forntend for Spectrum Audio Instruments (milestone 1)
+Building e-commerce store forntend for Spectrum Audio Instruments (milestone 1). It's FOSS and also available for everyone interested.
+([About the milestones ](https://github.com/Hasse331/SAI-commerce-frontend/blob/main/docs/project-planning/INITIAL-PROJECT-PLAN.md))
 
 [Project repo](https://github.com/Hasse331/SAI-commerce-frontend)
 
-## Upcoming
+**MiniMRP**
 
-**SAI-internal-tools** (milestone 2)
+Building FOSS internal MRP system for Spectrum Audio Instruments (milestone 2) and all other interested.
 
-[More from here](https://github.com/Hasse331/SAI-commerce-frontend/blob/main/docs/project-planning/INITIAL-PROJECT-PLAN.md)
+[Project repo](https://github.com/Hasse331/MiniMRP)
 
 ## My next project ideas
 
-1. New professional websites
+#### New professional websites
    - Using payload headless CMS for easy site building & updates
    - Making nice looking next.js web forontend, leveraging component libraries
    - Some low cost hosting, like vercel
    - Site features: general info, certificate list, articles/blog, project portfolio
 
-2. Tableau public & data-analysis
-   - Making few interesting analysis about interesting topics
-   - Some topic ideas: data exploration, business dashboard, time series analysis
-   - Finding relevant data for the projects
-   - Saving datasets and sources to github repo
-   - Writing a report on my webpages
+#### Economic / financial market data-analysis web application
+   - Free economic & equity market data analysis web app
+   - Learning goals: learning data engineering best practices and methodologies, applying statistical konwledge to real problems
+   - Building automated ETL process and analysis tools/dashboard for making data-based investment decisions (on financial markets).
+   - OpenBB coud be one great repo to leverage for this experimentation.
+   - Basing decisions more on real economics, less on narratives. 
+
+#### FOSS billing software
+   - Making cross-plafform free billing software
+   - Easy to use, minimal, no large system overhead
+   - Bill generating and autofillin. No waste of time filling obvious parts
+
+#### MiniMRP Cloud
+   - Free proof of concept demo platform depoying MiniMRP instances
 
 ## Interesting areas to explore for project ideas
-
-### Data engineering
-
-- Building automated ETL process and analysis tools/dashboard for making data-based investment decisions (on financial markets).
-  - OpenBB coud be one great repo to leverage for this experimentation.
-  - Basing decisions more on real economics, less on narratives.
 
 ### IoT/embedded:
 
 - Agritech -> how to use IoT, data & analytics for agriculture & forestry
 - Propertytech -> how to use IoT for remote management of leisure property management, like cottage/cabin
+- Embedded user interfaces
 
 ## Previous / completed projects (more recent)
 
